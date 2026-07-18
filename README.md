@@ -1,1 +1,2 @@
-# intelligent-medication-dispenser
+# intelligent-medication-dispenser 
+This intelligent medication dispenser is intended for home or assisted-living use by patients with complex medication schedules. The device will automate the isolation and dispensing of oral solid medications at pre-programmed times, verify compliance using optical break-beam detection, and monitor internal environmental boundaries (Relative Humidity $< 60\%$ and Temperature $< 25^\circ\text{C}$) to safeguard moisture-sensitive drugs
